@@ -1,0 +1,17 @@
+{
+  "name": "xtack-rippled-adapter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tianyi Ma <tn.ma@outlook.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "node-rsa": "^1.0.7",
+    "restify": "^8.5.1",
+    "xpring-js": "^1.3.2",
+    "xrpl-tagged-address-codec": "^0.2.1"
+  }
+}
